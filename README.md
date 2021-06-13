@@ -1,2 +1,2 @@
 # LTMCB - UIT
-Lập trình mạng căn bản
+Lập trình mạng căn bản - thực hành
